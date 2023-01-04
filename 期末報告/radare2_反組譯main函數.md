@@ -1,3 +1,5 @@
+#
+```
 [0x00400860]> pdf @ main
             ; DATA XREF from entry0 @ 0x40087d
 ┌ 208: int main (int argc, char **argv, char **envp);
@@ -62,3 +64,4 @@
 │           0x00400be7      b800000000     mov eax, 0
 │           0x00400bec      c9             leave
 └           0x00400bed      c3             ret
+```
